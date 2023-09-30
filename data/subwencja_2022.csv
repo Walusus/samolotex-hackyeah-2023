@@ -1,0 +1,96 @@
+Kategoria uczniów,Uczniowie,Waga,Uczniowie przelicz.,Kwota razem w zł,Kategoria uczniów (cleared),Kategoria uczniów (shortcut)
+1. Sa - Ucz. stat. szk. publ./niepubl. - młodzież [2],"3 209,08","1,00","3 187,702500785","19 385 445,03",Sa - Ucz. stat. szk. publ./niepubl. - młodzież [2],Sa
+2. Sb - Ucz. statyst. szkół publicznych - dor. stac. [3],"0,00","0,70","0,00","0,00",Sb - Ucz. statyst. szkół publicznych - dor. stac. [3],Sb
+3. Sc - Ucz. statyst. szkół niepublicznych - dor. stac.,"0,00","0,35","0,00","0,00",Sc - Ucz. statyst. szkół niepublicznych - dor. stac.,Sc
+4. Sd - Ucz. statyst. szkół publicznych - dor. zao.,"0,00","0,42","0,00","0,00",Sd - Ucz. statyst. szkół publicznych - dor. zao.,Sd
+5. Se - Ucz. statyst. szkół niepublicznych - dor. zao.,"0,00","0,18","0,00","0,00",Se - Ucz. statyst. szkół niepublicznych - dor. zao.,Se
+6. Sf - Ucz. naucz.dom. i poza szk.,"2,00","0,80","1,59","9 665,30",Sf - Ucz. naucz.dom. i poza szk.,Sf
+7. Sg - Ucz. niepublicznych szk. polic. - dor. zao.,"0,00","0,07","0,00","0,00",Sg - Ucz. niepublicznych szk. polic. - dor. zao.,Sg
+8. Sh - Ucz. niepublicznych LO - dor. zao.,"0,00","0,12","0,00","0,00",Sh - Ucz. niepublicznych LO - dor. zao.,Sh
+9. Si - Ucz. pub. LO dla dor. i szk. polic. dla dor. zaocz.,"0,00","0,30","0,00","0,00",Si - Ucz. pub. LO dla dor. i szk. polic. dla dor. zaocz.,Si
+10. Sj - Ucz. niepub. LO dla dor. i szk. polic. dla dor. stac.,"0,00","0,22","0,00","0,00",Sj - Ucz. niepub. LO dla dor. i szk. polic. dla dor. stac.,Sj
+11. Sk - Ucz. pub. szk. polic. dla dzieci i młodzieży,"0,00","0,81","0,00","0,00",Sk - Ucz. pub. szk. polic. dla dzieci i młodzieży,Sk
+12. Sl - Ucz. niepub. szk. polic. dla dzieci i młodz.,"0,00","0,39","0,00","0,00",Sl - Ucz. niepub. szk. polic. dla dzieci i młodz.,Sl
+13. Sm - Ucz. BSII pub. npub. dzienne,"0,00","0,52","0,00","0,00",Sm - Ucz. BSII pub. npub. dzienne,Sm
+14. Sn - Ucz. BSII pub. zaoczne,"0,00","0,21","0,00","0,00",Sn - Ucz. BSII pub. zaoczne,Sn
+15. So - Ucz. BSII npub. zaoczne,"0,00","0,10","0,00","0,00",So - Ucz. BSII npub. zaoczne,So
+"16. Sp - Ucz. LO, szk. polic. dor. stac. pub.","0,00","0,54","0,00","0,00","Sp - Ucz. LO, szk. polic. dor. stac. pub.",Sp
+17. P1 - Ucz.szk.podst.wieś/mias. do 5 tys.m. wsk.zam<=1.4,"0,00","0,40","0,00","0,00",P1 - Ucz.szk.podst.wieś/mias. do 5 tys.m. wsk.zam<=1.4,P1
+18. P2 - Ucz.szk.podst.wieś/mias. do 5 tys.m. wsk.zam>1.4,"0,00","0,20","0,00","0,00",P2 - Ucz.szk.podst.wieś/mias. do 5 tys.m. wsk.zam>1.4,P2
+19. P3 - Ucz. publ-npub. szk. dla dz. i mł. w poł. ze wsk. zam,"0,00","0,25","0,00","0,00",P3 - Ucz. publ-npub. szk. dla dz. i mł. w poł. ze wsk. zam,P3
+"20. P4 - Ucz. szk. podstawowych - ""małe szkoły""","0,00","0,20","0,00","0,00","P4 - Ucz. szk. podstawowych - ""małe szkoły""",P4
+21. P5 - Ucz. niepełnosprawni i niedostosowani ...,"14,00","1,40","19,47","118 399,95",P5 - Ucz. niepełnosprawni i niedostosowani ...,P5
+22. P6 - Ucz. niepełnosprawni i niedostosowani ...,"14,00","2,90","40,33","245 257,03",P6 - Ucz. niepełnosprawni i niedostosowani ...,P6
+23. P7 - Ucz. niepełnosprawni i niedostosowani ...,"4,00","3,60","14,30","86 987,72",P7 - Ucz. niepełnosprawni i niedostosowani ...,P7
+24. P8 - Ucz. niepełnosprawni ...[4],"53,00","9,50","500,15","3 041 549,64",P8 - Ucz. niepełnosprawni ...[4],P8
+25. P9 - Ucz. niepełnosprawni w oddziałach integr.,"30,00","0,80","23,84","144 979,53",P9 - Ucz. niepełnosprawni w oddziałach integr.,P9
+26. P10 - Ucz. szkół ponadgimn. i ponadpodst.,"0,00","0,08","0,00","0,00",P10 - Ucz. szkół ponadgimn. i ponadpodst.,P10
+27. P11 - Ucz. LO,"0,00","0,12","0,00","0,00",P11 - Ucz. LO,P11
+"28. P12 - Absolwenci LO dla dor., szk.polic., kkz","0,00","0,40","0,00","0,00","P12 - Absolwenci LO dla dor., szk.polic., kkz",P12
+"29. P13 - Ucz. szk. polic., kolegiów, szk. przysposabia.","0,00","0,23","0,00","0,00","P13 - Ucz. szk. polic., kolegiów, szk. przysposabia.",P13
+30. P14 - Ucz. szk. zawodowych - grupa A,"0,00","0,40","0,00","0,00",P14 - Ucz. szk. zawodowych - grupa A,P14
+31. P15 - Ucz. szk. zawodowych - grupa B,"0,00","0,35","0,00","0,00",P15 - Ucz. szk. zawodowych - grupa B,P15
+32. P16 - Ucz. szk. zawodowych - grupa C,"0,00","0,29","0,00","0,00",P16 - Ucz. szk. zawodowych - grupa C,P16
+33. P17 - Ucz. szk. zawodowych - grupa D,"0,00","0,23","0,00","0,00",P17 - Ucz. szk. zawodowych - grupa D,P17
+34. P18 - Ucz. zawody admin. i bezpiecz. pracy,"0,00","0,10","0,00","0,00",P18 - Ucz. zawody admin. i bezpiecz. pracy,P18
+35. P19 - Ucz. ZSZ i BS I st. młodociani pracownicy,"0,00","0,08","0,00","0,00",P19 - Ucz. ZSZ i BS I st. młodociani pracownicy,P19
+"36. P20 - Ucz. kl. I,II,III szkoły zaw. (bez młodoc.) zaw.rek.","0,00","0,20","0,00","0,00","P20 - Ucz. kl. I,II,III szkoły zaw. (bez młodoc.) zaw.rek.",P20
+"37. P21 - Ucz. kl. I,II,III BS I st. młodociani zaw.rek.","0,00","0,08","0,00","0,00","P21 - Ucz. kl. I,II,III BS I st. młodociani zaw.rek.",P21
+"38. P22 - Ucz. klasy I,II bez młod. prac. zawody szczególne","0,00","0,20","0,00","0,00","P22 - Ucz. klasy I,II bez młod. prac. zawody szczególne",P22
+"39. P23 - Ucz. klasy I,II młod. prac. zawody szczególne","0,00","0,08","0,00","0,00","P23 - Ucz. klasy I,II młod. prac. zawody szczególne",P23
+"40. P24 - Ucz. zawody kier. mech., technik transp. drog.","0,00","0,05","0,00","0,00","P24 - Ucz. zawody kier. mech., technik transp. drog.",P24
+41. P25 - Ucz. mniejszości narodowych i grup etn.,"0,00","0,20","0,00","0,00",P25 - Ucz. mniejszości narodowych i grup etn.,P25
+"42. P25a- Ucz. mniejszości narod. i gr. etn. >42, >112 j.niem.","0,00","0,17","0,00","0,00","P25a- Ucz. mniejszości narod. i gr. etn. >42, >112 j.niem.",P25a-
+43. P26 - Ucz. mniejszości narodowych i grup etn.,"0,00","1,00","0,00","0,00",P26 - Ucz. mniejszości narodowych i grup etn.,P26
+"44. P26a-Ucz.mn.narod.i grup etn.o l.ucz.<=42,<=112 j.niem.","0,00","0,83","0,00","0,00","P26a-Ucz.mn.narod.i grup etn.o l.ucz.<=42,<=112 j.niem.",P26a
+45. P27 - Ucz. mniejszości narodowych i grup etn.,"0,00","1,30","0,00","0,00",P27 - Ucz. mniejszości narodowych i grup etn.,P27
+"46. P27a-Ucz. mn.narod.i grup etn.o l.ucz.<=30,<=80 j.niem.","0,00","1,08","0,00","0,00","P27a-Ucz. mn.narod.i grup etn.o l.ucz.<=30,<=80 j.niem.",P27a
+47. P28 - Ucz. szkół dwujęz. z j. ojczystym dla mn...,"0,00","0,60","0,00","0,00",P28 - Ucz. szkół dwujęz. z j. ojczystym dla mn...,P28
+48. P29 - Ucz. klas sportowych,"0,00","0,20","0,00","0,00",P29 - Ucz. klas sportowych,P29
+49. P30 - Ucz. klas mistrzostwa sportowego,"0,00","1,00","0,00","0,00",P30 - Ucz. klas mistrzostwa sportowego,P30
+50. P31 - Ucz. kształcący się w zawodach medycznych,"0,00","0,85","0,00","0,00",P31 - Ucz. kształcący się w zawodach medycznych,P31
+51. P32 - Ucz. szkół muzycznych I st.,"0,00","0,85","0,00","0,00",P32 - Ucz. szkół muzycznych I st.,P32
+52. P33 - Ucz. szkół muzycznych II st.,"0,00","1,50","0,00","0,00",P33 - Ucz. szkół muzycznych II st.,P33
+53. P34 - Ucz.ogólnokształcących szkół muzycznych I st.,"0,00","2,01","0,00","0,00",P34 - Ucz.ogólnokształcących szkół muzycznych I st.,P34
+54. P35 - Ucz.ogólnokształcących szkół muzycznych II st.,"0,00","3,36","0,00","0,00",P35 - Ucz.ogólnokształcących szkół muzycznych II st.,P35
+55. P36 - Ucz. liceów sztuk plastycznych,"0,00","0,92","0,00","0,00",P36 - Ucz. liceów sztuk plastycznych,P36
+56. P37 - Ucz. ogólnokształcących szkół sztuk pięknych,"0,00","1,35","0,00","0,00",P37 - Ucz. ogólnokształcących szkół sztuk pięknych,P37
+57. P38 - Ucz. z nauczaniem indywidualnym bez orzeczeń,"3,29","1,00","3,27","19 874,28",P38 - Ucz. z nauczaniem indywidualnym bez orzeczeń,P38
+58. P39 - Ucz. szkół przyszpitalnych i przysanatoryjnych,"0,00","1,10","0,00","0,00",P39 - Ucz. szkół przyszpitalnych i przysanatoryjnych,P39
+59. P40 - Zesp. pozalek. i zaj. wych w szk. przyszp.,"0,00","1,94","0,00","0,00",P40 - Zesp. pozalek. i zaj. wych w szk. przyszp.,P40
+60. P41 - Ucz. klas terapeutycznych,"0,00","0,60","0,00","0,00",P41 - Ucz. klas terapeutycznych,P41
+61. P42 - Ucz. klas dwujęzycznych,"0,00","0,17","0,00","0,00",P42 - Ucz. klas dwujęzycznych,P42
+62. P43 - Ucz. Oddziałów przygotowania wojskowego LO,"0,00","0,06","0,00","0,00",P43 - Ucz. Oddziałów przygotowania wojskowego LO,P43
+63. P44 - Ucz. Oddziałów przygotowania wojskowego Tech,"0,00","0,05","0,00","0,00",P44 - Ucz. Oddziałów przygotowania wojskowego Tech,P44
+64. P45 - Ucz. kszt. się w zaw. podst. dla żegl. m. i śród.,"0,00","3,00","0,00","0,00",P45 - Ucz. kszt. się w zaw. podst. dla żegl. m. i śród.,P45
+65. P46 - Uczestnicy kursów kwalifik. szkoły placówki publ.,"0,00","0,36","0,00","0,00",P46 - Uczestnicy kursów kwalifik. szkoły placówki publ.,P46
+66. P47 - Uczestnicy kursów kwalifik. szkoły niepubliczne,"0,00","0,35","0,00","0,00",P47 - Uczestnicy kursów kwalifik. szkoły niepubliczne,P47
+67. P48 - Szkoły branżowe II st. KKZ,"0,00","0,68","0,00","0,00",P48 - Szkoły branżowe II st. KKZ,P48
+"68. P49 - Ucz. klas I,II,III SP dla dzieci i młodzieży","1 207,00","0,07","77,93","473 932,03","P49 - Ucz. klas I,II,III SP dla dzieci i młodzieży",P49
+69. P50 - Ucz. - dodatkowa nauka j. polskiego,"35,00","1,50","52,15","317 142,71",P50 - Ucz. - dodatkowa nauka j. polskiego,P50
+70. P51 - Ucz. oddziałów przygotowawczych,"0,00","0,40","0,00","0,00",P51 - Ucz. oddziałów przygotowawczych,P51
+"71. P52 - Ucz. SP, Ogólnoksz. Muz I St dla dz. i mł.","3 211,08","0,03","79,74","484 938,17","P52 - Ucz. SP, Ogólnoksz. Muz I St dla dz. i mł.",P52
+72. P53 - Ucz. szkół ponadpods./ponadgim. dla dzieci i mł.,"0,00","0,01","0,00","0,00",P53 - Ucz. szkół ponadpods./ponadgim. dla dzieci i mł.,P53
+73. P54 - Dzieci 6-letnie w przedszkolach,"352,00","0,75","262,24","1 594 774,79",P54 - Dzieci 6-letnie w przedszkolach,P54
+74. P55 - Dzieci 6-letnie w oddz.przedszk. lub in. formach,"53,00","0,66","34,75","211 307,66",P55 - Dzieci 6-letnie w oddz.przedszk. lub in. formach,P55
+75. P56 - Dzieci 6-letnie wieś/miasto do 5 tys. m.,"0,00","0,15","0,00","0,00",P56 - Dzieci 6-letnie wieś/miasto do 5 tys. m.,P56
+76. P57 - Dzieci w przedszkolach w podm. lecz.,"0,00","3,04","0,00","0,00",P57 - Dzieci w przedszkolach w podm. lecz.,P57
+77. P58 - Wych. w internatach i bursach,"0,00","1,50","0,00","0,00",P58 - Wych. w internatach i bursach,P58
+78. P59 - Wych. niepełnospr. w intern. szk. spec.,"0,00","0,50","0,00","0,00",P59 - Wych. niepełnospr. w intern. szk. spec.,P59
+79. P60 - Wych. w internatach szkół artystycznych,"0,00","3,64","0,00","0,00",P60 - Wych. w internatach szkół artystycznych,P60
+80. P61 - Wych. w domach wczasów dziecięcych,"0,00","6,30","0,00","0,00",P61 - Wych. w domach wczasów dziecięcych,P61
+81. P62 - Wych. SOSW/MOS opieka całkowita,"0,00","6,50","0,00","0,00",P62 - Wych. SOSW/MOS opieka całkowita,P62
+82. P63 - Wych. SOW opieka całkowita,"0,00","7,80","0,00","0,00",P63 - Wych. SOW opieka całkowita,P63
+83. P64 - Wych. MOW niedoprowadzeni,"0,00","5,00","0,00","0,00",P64 - Wych. MOW niedoprowadzeni,P64
+84. P65 - Wych. MOW,"0,00","10,00","0,00","0,00",P65 - Wych. MOW,P65
+85. P66 - Wych. MOS,"0,00","1,50","0,00","0,00",P66 - Wych. MOS,P66
+"86. P67 - Wych. ORW i przedszkoli-autyzm,niep.sprzężona","52,00","9,50","490,71","2 984 161,92","P67 - Wych. ORW i przedszkoli-autyzm,niep.sprzężona",P67
+87. P68 - Schroniska młodzieżowe (m-ca * m-ce),"0,00","0,02","0,00","0,00",P68 - Schroniska młodzieżowe (m-ca * m-ce),P68
+88. P69 - Dzieci - wczesne wspomaganie,"29,00","0,84","24,20","147 154,22",P69 - Dzieci - wczesne wspomaganie,P69
+89. P70 - Dzieci 6-letnie w naucz. dom. i poza placówką,"0,00","0,25","0,00","0,00",P70 - Dzieci 6-letnie w naucz. dom. i poza placówką,P70
+90. P71 - Dzieci niepełnosprawne w przedszkolach - gr. 2,"3,00","2,90","8,64","52 555,08",P71 - Dzieci niepełnosprawne w przedszkolach - gr. 2,P71
+91. P72 - Dzieci niepełnosprawne w przedszkolach - gr. 3,"3,00","3,60","10,73","65 240,79",P72 - Dzieci niepełnosprawne w przedszkolach - gr. 3,P72
+92. P73 - Stażyści,"7,00","0,21","1,46","8 880,00",P73 - Stażyści,P73
+93. P74 - Zadania pozaszkolne gminne,"3 211,08","0,00","3,19","19 397,53",P74 - Zadania pozaszkolne gminne,P74
+94. P75 - Zadania pozaszkolne powiatowe,"0,00","0,03","0,00","0,00",P75 - Zadania pozaszkolne powiatowe,P75
+95. P76 - Zadania pozaszkolne wojewódzkie,"0,00","0,01","0,00","0,00",P76 - Zadania pozaszkolne wojewódzkie,P76
