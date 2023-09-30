@@ -1,4 +1,5 @@
 django~=4.2
+djangorestframework~=3.14
 
 # dev
 black==23.9.1
