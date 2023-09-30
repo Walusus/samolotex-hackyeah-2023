@@ -1,0 +1,54 @@
+name: CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  django-tests:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Add .env-local
+      run: touch .env-local
+    - name: Build the Docker image
+      run: docker-compose build web
+    - name: Apply migrations
+      run: docker-compose run web ./manage.py migrate
+    - name: Django test
+      run: docker-compose run web ./manage.py test
+
+  mypy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Add .env-local
+        run: touch .env-local
+      - name: Build the Docker image
+        run: docker-compose build web
+      - name: Run mypy
+        run: docker-compose run --no-deps web mypy
+
+  black:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Add .env-local
+        run: touch .env-local
+      - name: Build the Docker image
+        run: docker-compose build web
+      - name: Run black
+        run: docker-compose run --no-deps web black .
+
+  ruff:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Add .env-local
+        run: touch .env-local
+      - name: Build the Docker image
+        run: docker-compose build web
+      - name: Run ruff
+        run: docker-compose run --no-deps web ruff check .
