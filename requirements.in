@@ -1,0 +1,6 @@
+django~=4.2
+
+# dev
+black==23.9.1
+ruff==0.0.291
+mypy==1.5.1
