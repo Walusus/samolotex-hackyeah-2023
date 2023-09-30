@@ -1,7 +1,7 @@
 version: "3.7"
 services:
 
-  web:
+  backend:
     build:
       context: ./
       target: dev
@@ -13,3 +13,16 @@ services:
     ports:
       - "8000:8000"
     command: ./manage.py runserver 0.0.0.0:8000
+
+  frontend:
+    depends_on:
+      - backend
+    build:
+      context: ./
+      dockerfile: Dockerfile.frontend
+    env_file:
+      - .env
+      - .env-local
+    ports:
+      - "3000:3000"
+    command: npm run dev
