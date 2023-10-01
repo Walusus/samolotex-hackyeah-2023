@@ -6,7 +6,7 @@ ENV PYTHONUNBUFFERED 1
 ENV PROJECT_DIR /project
 WORKDIR $PROJECT_DIR
 
-########## DEV STAGE ##########
+# DEV STAGE
 FROM build as dev
 
 COPY requirements.txt .

@@ -1,28 +1,15 @@
 version: "3.7"
 services:
 
-  backend:
+  jupyter:
     build:
       context: ./
       target: dev
     env_file:
       - .env
-      - .env-local
     volumes:
       - ./:/project:delegated
     ports:
-      - "8000:8000"
-    command: ./manage.py runserver 0.0.0.0:8000
+      - "8888:8888"
+    command: jupyter lab --allow-root
 
-  frontend:
-    depends_on:
-      - backend
-    build:
-      context: ./
-      dockerfile: Dockerfile.frontend
-    env_file:
-      - .env
-      - .env-local
-    ports:
-      - "3000:3000"
-    command: npm run dev
